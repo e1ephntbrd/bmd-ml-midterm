@@ -2,7 +2,8 @@
 
 ![Python](https://img.shields.io/badge/Python-3.12-blue)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-orange)
-![XGBoost](https://img.shields.io/badge/XGBoost-Boosting-green)
+![XGBoost](https://img.shields.io/badge/XGBoost-Boosting-darkgreen)
+![Version](https://img.shields.io/badge/version-1.0.0-green)
 ![Status](https://img.shields.io/badge/Status-Completed-success)
 
 ---
